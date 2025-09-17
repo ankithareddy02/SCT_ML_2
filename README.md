@@ -1,0 +1,1 @@
+# SCT_ML_2-Mall_customer_segementaion.ipynb
